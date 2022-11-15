@@ -1,0 +1,7 @@
+app/config/AppControllerConfig.class
+app/config/DbConfig.class
+app/controllers/AdminController.class
+app/config/FreeMarkerConfig.class
+app/config/RouteConfig.class
+app/config/AppBootstrap.class
+app/controllers/HomeController.class
